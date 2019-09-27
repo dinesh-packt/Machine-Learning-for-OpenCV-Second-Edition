@@ -1,4 +1,4 @@
-# Machine Learning for OpenCV
+# Machine Learning For OpenCV
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PacktPublishing/Machine-Learning-for-OpenCV-Second-Edition/master)
 
